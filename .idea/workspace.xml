@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e1e8293-a838-47ed-92f4-730b6ac1e104" name="Changes" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2g41Tt86JgeQsZbJhMS4Dxjhcpg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Maven.InboxAPI-TestRegresion [clean,install].executor": "Run",
+    "Maven.InboxAPI_TestRegresion [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/User/Documents/NetmeraInboxAPI_TestRegression/TestRegression.xml.executor": "Run",
+    "TestNG.TestCases.ReadMesajlariGetirTest.executor": "Run",
+    "TestNG.TestCases.Status16MessagesTest.executor": "Run",
+    "TestNG.TestCases.Status1MessagesTest.executor": "Run",
+    "TestNG.TestCases.Status3MessagesTest.executor": "Run",
+    "TestNG.TestCases.executor": "Run",
+    "TestNG.TestCases.exitveStatusZorunludurHatasıTest.executor": "Run",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/NetmeraInboxAPI_TestRegression",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.5264368",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\meric.bacak\Documents\TotalAssuranceService_TestSmoke\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCases">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TotalAssurance_TestRegression" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TotalAssurance_TestRegression" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmakinService-TestRegresion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.Status16MessagesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmakinService-TestRegresion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="Status16MessagesTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.Status1MessagesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmakinService-TestRegresion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="Status1MessagesTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.Status3MessagesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmakinService-TestRegresion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="Status3MessagesTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.exitveStatusZorunludurHatasıTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmakinService-TestRegresion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="exitveStatusZorunludurHatasıTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestCases.Status16MessagesTest" />
+      <item itemvalue="TestNG.TestCases.Status1MessagesTest" />
+      <item itemvalue="TestNG.TestCases.Status3MessagesTest" />
+      <item itemvalue="TestNG.TestCases.exitveStatusZorunludurHatasıTest" />
+      <item itemvalue="TestNG.TestCases" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCases" />
+        <item itemvalue="TestNG.TestCases.exitveStatusZorunludurHatasıTest" />
+        <item itemvalue="TestNG.TestCases.Status16MessagesTest" />
+        <item itemvalue="TestNG.TestCases.Status3MessagesTest" />
+        <item itemvalue="TestNG.TestCases.Status1MessagesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1e8293-a838-47ed-92f4-730b6ac1e104" name="Changes" comment="" />
+      <created>1714942046532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714942046532</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>

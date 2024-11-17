@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="NewgenPolicyService-TestSmoke" />
+        <module name="ViennaLife_API_Automation" />
+        <module name="EmakinService-TestRegresion" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CustomerAddress-TestSmoke" target="17" />
+      <module name="CustomerPhone-TestSmoke" target="17" />
+      <module name="CustomerPhone-TestSmoke-api-automation" target="17" />
+      <module name="CustomerPhoneService-TestSmoke" target="17" />
+      <module name="NewgenPurchaseService-TestSmoke" target="17" />
+      <module name="NewgenPUWService-TestSmoke" target="17" />
+      <module name="PersonUpdateService-TestSmoke" target="17" />
+      <module name="PolicyCreationService-TestSmoke" target="17" />
+      <module name="PremiumHolidayService-TestSmoke" target="17" />
+      <module name="Sales-Services-api-automation" target="17" />
+      <module name="ThresholdValueService-TestSmoke" target="17" />
+      <module name="TotalAssuranceService-TestFunctional" target="15" />
+      <module name="TotalAssuranceService-TestRegresion" target="15" />
+      <module name="TotalAssuranceService-TestSmoke" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
